@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Produkte – AME Racing</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>AME Racing</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Start</a></li>
+        <li><a href="produkte.html">Produkte</a></li>
+        <li><a href="services.html">Services</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h2>Unsere Produkte</h2>
+    <ul>
+      <li>💨 Sportabgasanlagen – für satten Sound & Leistung</li>
+      <li>🔧 Fahrwerkskomponenten – Gewindefahrwerke, Stabis & mehr</li>
+      <li>🧠 Motorelektronik – Softwareoptimierung & Kennfeldanpassung</li>
+      <li>🛡️ Sicherheitszubehör – Überrollkäfige, Gurte, Rennsitze</li>
+      <li>🏁 Tracktools & Umbaukits – direkt für den Renneinsatz</li>
+    </ul>
+  </main>
+  <footer>
+    <p>&copy; 2025 AME Racing</p>
+  </footer>
+</body>
+</html>
