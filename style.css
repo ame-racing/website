@@ -1,28 +1,28 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
+  background-color: #f8f8f8;
   color: #333;
 }
 
 header {
-  background-color: #222;
-  color: white;
+  background-color: #111;
+  color: #fff;
   padding: 20px;
   text-align: center;
 }
 
 nav ul {
   list-style: none;
-  padding: 0;
-  margin-top: 10px;
   display: flex;
   justify-content: center;
-  gap: 15px;
+  gap: 20px;
+  padding: 0;
+  margin: 0;
 }
 
 nav ul li a {
-  color: white;
+  color: #fff;
   text-decoration: none;
   font-weight: bold;
 }
@@ -32,29 +32,16 @@ nav ul li a:hover {
 }
 
 main {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 20px;
-  gap: 30px;
-  justify-content: center;
-}
-
-.intro {
-  flex: 1 1 400px;
-  max-width: 600px;
-}
-
-.sidebar {
-  flex: 1 1 250px;
-  background-color: #eee;
-  padding: 15px;
-  border-radius: 8px;
+  padding: 30px;
+  max-width: 900px;
+  margin: 0 auto;
 }
 
 footer {
-  background-color: #222;
-  color: white;
+  background-color: #111;
+  color: #fff;
   text-align: center;
   padding: 10px;
-  margin-top: 30px;
+  margin-top: 50px;
 }
+
